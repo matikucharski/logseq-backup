@@ -1,0 +1,5 @@
+* DONE Today I created logseq
+:LOGBOOK:
+CLOCK: [2022-04-04 Mon 12:08:57]--[2022-04-04 Mon 12:08:58] =>  00:00:01
+:END:
+*

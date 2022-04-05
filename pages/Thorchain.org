@@ -1,0 +1,3 @@
+* Links #card
+** https://web.dev/file-system-access/ - better storing keystore.json
+** https://medium.com/thorchain/hardening-the-thorchain-protocol-f80164de7685 medium article that describes programmed delay in swap proportionally ot swap size
